@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Baraboraaa
 - 👀 I’m interested in web design, qa testing
-- 🌱 I’m currently learning Multimedia and Computer design. I'm third year student in Vilnius Gediminas Technical University
-- 📫 How to reach me? Just send me a messange https://www.facebook.com/BarboraArdzijauskaitee/ 
+- 🌱 I’m Multimedia and Computer design graduate
+- 📫 How to reach me? Just send me a messange www.linkedin.com/in/barbora-ardzijauskaitė
 
 <!---
 Baraboraaa/Baraboraaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
